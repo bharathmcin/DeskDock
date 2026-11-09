@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>DeskDock</AssemblyName>
+    <RootNamespace>DeskDock</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="README.md" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+# .NET and WPF build output
+[Bb]in/
+[Oo]bj/
+.vs/
+publish/
+artifacts/
+
+# IDE and local user settings
+.vscode/
+.idea/
+*.user
+*.suo
+*.cache
+
+# Generated files and local SDK tools
+*.pdb
+*.log
+platform-tools/
+outputs/
+work/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
